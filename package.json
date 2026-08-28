@@ -82,7 +82,7 @@
 		"@types/argon2-browser": "^1.18.4",
 		"@types/mdast": "^4.0.4",
 		"@vitejs/plugin-react": "^5.1.2",
-		"agents": "^0.2.32",
+		"agents": "^0.22.0",
 		"class-variance-authority": "^0.7.1",
 		"cli-table3": "^0.6.5",
 		"cloudflare": "^4.5.0",
